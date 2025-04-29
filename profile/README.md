@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/bryteidea/identity/main/assets/logos/bryte-spark.png" width="100" alt="Bryte Spark"/>
+<img src="https://raw.githubusercontent.com/bryteidea/.github/main/.github/profile/bryte-spark.png" width="100" alt="Bryte Spark"/>
 
 # **Bryte Idea**  
 **Every bright idea lights a fuse.**  
