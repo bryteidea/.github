@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/bryteidea/.github/main/.github/profile/bryte-spark.png" width="100" alt="Bryte Spark"/>
+<img src="bryte-spark.png" width="100" alt="Bryte Spark"/>
 
 # **Bryte Idea**  
 **Every bright idea lights a fuse.**  
@@ -42,4 +42,4 @@ When in doubt: spark something.
 🟡 **bryteidea.com** (coming soon)  
 🧠 Built with ✨ by dreamers, for doers
 
-</div> 
+</div>
